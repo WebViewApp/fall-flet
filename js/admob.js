@@ -1,3 +1,3 @@
-$("#btn1").click(function(){
+$("#myButton").click(function(){
    Android.showAdFromJs();
 });
